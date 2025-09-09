@@ -61,8 +61,10 @@ Contoh kode:
 
 ## Kode Utama
 ### pages/home_pages.dart
-<img width="960" height="7896" alt="image" src="https://github.com/user-attachments/assets/8a0aef2c-d664-4de3-a518-3b46ac1d63a5" />
+<img width="2048" height="3240" alt="image" src="https://github.com/user-attachments/assets/35f27292-2602-493c-90e2-9fcc9e9f0221" />
+
 
 ### pages/item_pages.dart
-<img width="960" height="4208" alt="image" src="https://github.com/user-attachments/assets/8f005d03-c9ec-4d8d-b919-ab346d7140f3" />
+<img width="1784" height="1900" alt="image" src="https://github.com/user-attachments/assets/05eff2f2-434c-4331-ac65-9456f248e9e8" />
+
 
