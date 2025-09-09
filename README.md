@@ -49,10 +49,20 @@ Contoh kode:
 
 ## Screenshot
 ### HomePage (Daftar Produk)
-![HomePage Screenshot](screenshot_home.png)
+<img width="485" height="660" alt="image" src="https://github.com/user-attachments/assets/259bcc0b-e664-4687-a926-8997699f707f" />
 
-### ItemPage (Detail Asuna)
-![ItemPage Screenshot](screenshot_item.png)
+2
+<img width="485" height="660" alt="image" src="https://github.com/user-attachments/assets/7d393547-305f-42fc-a193-0fe82062dfc6" />
+
+
+### ItemPage (Detail Akun)
+<img width="485" height="660" alt="image" src="https://github.com/user-attachments/assets/4ddcfe37-2e3c-4de4-b97d-e3bc860d7742" />
+
 
 ## Kode Utama
-### models/item.dart
+### pages/home_pages.dart
+<img width="960" height="7896" alt="image" src="https://github.com/user-attachments/assets/8a0aef2c-d664-4de3-a518-3b46ac1d63a5" />
+
+### pages/item_pages.dart
+<img width="960" height="4208" alt="image" src="https://github.com/user-attachments/assets/8f005d03-c9ec-4d8d-b919-ab346d7140f3" />
+
